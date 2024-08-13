@@ -17,6 +17,6 @@ application: looker-gen-ai {
 }
 
 constant: CONNECTION_NAME {
-  value: ""
+  value: "looker_vertex"
   export: override_optional
 }
